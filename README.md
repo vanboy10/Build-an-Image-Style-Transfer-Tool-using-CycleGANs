@@ -5,7 +5,6 @@ This project aims to implement an image style transfer tool using CycleGANs (Cyc
 
 Installation
 To run this project, you'll need the following dependencies:
-
 Python 3.x
 PyTorch
 torchvision
